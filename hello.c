@@ -14,6 +14,9 @@
     printf("Michael Cornwell!\n");
     printf("Computer Science\n");
     
+    printf("Will Nixon!\n");
+    printf("Computer Engineering\n");
+    
     return 0;
     }
     
